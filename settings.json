@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "'cascadia code', 'mononoki NF', 'JetBrains Mono'", 
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontFamily": "mononoki NF",
+    "editor.fontLigatures": true,
+    "diffEditor.renderSideBySide": false,
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "editor.linkedEditing": true,
+    "window.zoomLevel": 1,
+    "liveServer.settings.CustomBrowser": "firefox"
+    
+
+}
